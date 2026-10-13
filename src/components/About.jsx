@@ -34,8 +34,8 @@ function About() {
 
           <li>
             <span className="fact-label">Email</span>
-                <a href="mailto:saurabhgoswami948@gmail.com">
-                  saurabhgoswami948@gmail.com
+                <a href="mailto:rishabhyadav0765@gmail.com">
+                  rishabhyadav0765@gmail.com
             </a>
           </li>
 
@@ -46,7 +46,7 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              github.com/saurabhgoswami2007
+              github.com/rishabhyadav0765-ai
             </a>
           </li>
 
@@ -57,7 +57,7 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              linkedin.com/in/saurabhgoswami2007
+              linkedin.com/in/rishabhyadav
             </a>
           </li>
         </ul>
